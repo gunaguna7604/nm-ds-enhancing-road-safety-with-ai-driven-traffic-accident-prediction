@@ -1,0 +1,1001 @@
+Vehicle_Age,Weather_Condition,Road_Surface,Light_Condition,Speed_Limit,Number_of_Vehicles,Number_of_Casualties,Accident_Severity
+7,Rain,Snow,Darkness - no lights,30,2,3,Serious
+15,Fog,Dry,Darkness - no lights,50,4,4,Serious
+11,Rain,Dry,Darkness - no lights,50,1,3,Slight
+8,Rain,Wet,Darkness - no lights,50,1,2,Serious
+7,Snow,Dry,Daylight,70,3,2,Fatal
+19,Clear,Dry,Darkness - lights lit,70,1,3,Slight
+11,Fog,Wet,Darkness - no lights,50,4,3,Fatal
+11,Fog,Wet,Daylight,60,3,3,Fatal
+4,Snow,Ice,Daylight,50,3,4,Slight
+8,Snow,Dry,Daylight,60,3,2,Fatal
+3,Rain,Snow,Darkness - no lights,60,2,4,Fatal
+2,Fog,Wet,Darkness - no lights,70,2,2,Slight
+12,Clear,Ice,Darkness - lights lit,60,1,1,Fatal
+6,Snow,Snow,Darkness - no lights,50,3,4,Serious
+2,Clear,Dry,Darkness - no lights,70,4,2,Fatal
+1,Clear,Ice,Daylight,30,2,2,Serious
+12,Fog,Wet,Darkness - lights lit,30,4,4,Fatal
+12,Fog,Snow,Darkness - no lights,70,4,4,Slight
+17,Snow,Wet,Darkness - no lights,50,2,2,Slight
+10,Fog,Dry,Daylight,30,2,4,Fatal
+16,Fog,Snow,Daylight,30,2,3,Slight
+15,Fog,Dry,Darkness - no lights,60,2,4,Fatal
+15,Clear,Dry,Darkness - lights lit,60,3,4,Slight
+19,Snow,Ice,Darkness - lights lit,50,3,4,Serious
+12,Rain,Wet,Daylight,70,3,2,Fatal
+3,Clear,Snow,Daylight,50,3,3,Serious
+5,Fog,Dry,Darkness - no lights,70,1,1,Serious
+19,Clear,Dry,Daylight,30,3,1,Fatal
+7,Fog,Snow,Darkness - no lights,60,2,3,Serious
+9,Fog,Dry,Darkness - lights lit,50,4,3,Fatal
+7,Clear,Ice,Darkness - lights lit,50,3,3,Serious
+18,Snow,Ice,Darkness - no lights,70,1,2,Fatal
+4,Fog,Ice,Daylight,70,2,1,Fatal
+14,Snow,Ice,Darkness - lights lit,50,4,3,Slight
+18,Rain,Dry,Daylight,70,4,2,Fatal
+9,Fog,Snow,Darkness - lights lit,50,3,1,Fatal
+2,Snow,Snow,Darkness - no lights,50,4,4,Serious
+15,Snow,Snow,Darkness - no lights,50,3,2,Fatal
+7,Rain,Snow,Darkness - no lights,30,3,1,Slight
+12,Snow,Wet,Darkness - lights lit,70,2,2,Serious
+8,Snow,Snow,Daylight,60,2,1,Serious
+15,Rain,Wet,Daylight,60,1,1,Slight
+3,Fog,Wet,Daylight,70,2,4,Serious
+14,Snow,Ice,Darkness - lights lit,50,2,2,Serious
+17,Snow,Wet,Darkness - lights lit,60,3,3,Serious
+4,Snow,Dry,Darkness - lights lit,60,2,4,Serious
+18,Clear,Wet,Darkness - lights lit,70,3,4,Slight
+8,Rain,Ice,Darkness - lights lit,60,3,1,Slight
+4,Clear,Wet,Daylight,50,2,3,Serious
+2,Rain,Dry,Darkness - lights lit,70,1,2,Serious
+6,Fog,Dry,Darkness - lights lit,50,1,3,Slight
+10,Fog,Dry,Daylight,60,4,3,Slight
+4,Snow,Ice,Darkness - lights lit,60,4,3,Slight
+18,Rain,Ice,Daylight,50,2,3,Serious
+12,Fog,Snow,Daylight,30,1,3,Serious
+2,Rain,Ice,Darkness - no lights,60,3,1,Fatal
+10,Fog,Dry,Darkness - no lights,30,4,1,Slight
+4,Clear,Dry,Darkness - no lights,60,3,4,Serious
+14,Fog,Ice,Darkness - no lights,30,4,1,Slight
+16,Clear,Wet,Darkness - lights lit,30,2,4,Serious
+15,Fog,Ice,Darkness - no lights,30,1,4,Slight
+8,Snow,Ice,Daylight,50,4,2,Serious
+14,Clear,Dry,Darkness - lights lit,30,1,3,Fatal
+8,Fog,Snow,Darkness - no lights,30,3,1,Fatal
+16,Snow,Dry,Daylight,30,2,2,Slight
+13,Clear,Snow,Darkness - lights lit,60,1,1,Serious
+18,Snow,Dry,Darkness - lights lit,30,2,4,Serious
+15,Rain,Ice,Darkness - no lights,60,1,1,Slight
+13,Rain,Dry,Darkness - lights lit,30,3,3,Serious
+9,Clear,Dry,Daylight,30,3,4,Slight
+15,Fog,Dry,Darkness - lights lit,50,2,4,Serious
+13,Clear,Ice,Daylight,60,3,2,Slight
+1,Snow,Ice,Darkness - lights lit,30,4,3,Serious
+7,Fog,Ice,Darkness - no lights,60,1,4,Slight
+9,Rain,Ice,Daylight,60,3,3,Serious
+1,Fog,Snow,Darkness - lights lit,70,4,1,Fatal
+12,Rain,Snow,Darkness - lights lit,50,2,3,Serious
+8,Fog,Wet,Darkness - lights lit,50,4,4,Slight
+11,Fog,Ice,Daylight,50,2,2,Fatal
+19,Fog,Snow,Daylight,70,2,4,Serious
+17,Snow,Dry,Daylight,70,1,3,Fatal
+8,Snow,Ice,Darkness - no lights,50,1,3,Serious
+3,Clear,Wet,Darkness - no lights,70,4,4,Fatal
+3,Clear,Wet,Daylight,70,1,3,Slight
+1,Rain,Wet,Darkness - lights lit,70,1,1,Serious
+5,Snow,Dry,Darkness - no lights,50,1,4,Serious
+10,Rain,Snow,Daylight,50,4,2,Slight
+7,Clear,Dry,Darkness - lights lit,50,3,4,Fatal
+9,Rain,Ice,Darkness - no lights,70,1,1,Slight
+7,Clear,Wet,Darkness - lights lit,50,1,1,Slight
+9,Snow,Dry,Darkness - lights lit,70,4,1,Fatal
+8,Fog,Dry,Darkness - lights lit,30,3,1,Slight
+12,Snow,Snow,Darkness - lights lit,70,1,1,Serious
+2,Rain,Snow,Darkness - no lights,60,2,2,Serious
+1,Rain,Wet,Darkness - no lights,50,4,3,Serious
+16,Snow,Dry,Darkness - no lights,50,1,1,Slight
+5,Snow,Dry,Daylight,60,1,1,Serious
+3,Clear,Snow,Darkness - no lights,70,2,4,Serious
+12,Rain,Dry,Darkness - lights lit,30,2,2,Serious
+8,Rain,Dry,Darkness - no lights,60,4,2,Serious
+3,Snow,Dry,Darkness - lights lit,60,4,3,Serious
+1,Fog,Snow,Daylight,70,2,2,Serious
+3,Rain,Wet,Darkness - lights lit,50,4,4,Slight
+5,Fog,Ice,Darkness - lights lit,70,2,4,Serious
+15,Snow,Wet,Darkness - lights lit,60,1,3,Serious
+14,Snow,Ice,Daylight,60,2,4,Fatal
+3,Clear,Dry,Darkness - no lights,50,2,1,Slight
+1,Rain,Wet,Darkness - no lights,50,3,1,Slight
+5,Fog,Ice,Daylight,50,2,4,Slight
+14,Clear,Snow,Darkness - lights lit,70,2,3,Slight
+7,Rain,Snow,Darkness - no lights,50,3,2,Serious
+9,Clear,Wet,Daylight,60,4,3,Serious
+15,Snow,Wet,Darkness - no lights,60,3,2,Fatal
+15,Rain,Dry,Daylight,30,1,4,Fatal
+10,Clear,Wet,Darkness - lights lit,70,3,4,Slight
+13,Clear,Dry,Darkness - no lights,30,1,1,Fatal
+19,Fog,Dry,Daylight,60,4,2,Fatal
+7,Clear,Snow,Darkness - no lights,30,3,3,Slight
+17,Rain,Snow,Darkness - no lights,60,3,4,Slight
+4,Rain,Ice,Darkness - no lights,30,4,3,Fatal
+5,Fog,Snow,Darkness - no lights,50,1,1,Serious
+7,Rain,Snow,Daylight,30,3,2,Fatal
+13,Snow,Wet,Darkness - lights lit,50,1,2,Fatal
+15,Rain,Snow,Daylight,50,3,4,Serious
+11,Rain,Ice,Daylight,70,2,2,Serious
+4,Clear,Wet,Daylight,50,3,4,Slight
+13,Clear,Ice,Darkness - lights lit,50,4,1,Slight
+7,Rain,Snow,Darkness - no lights,30,4,2,Fatal
+19,Fog,Ice,Darkness - no lights,60,1,4,Serious
+2,Clear,Wet,Darkness - no lights,70,3,3,Slight
+10,Fog,Dry,Darkness - lights lit,50,1,4,Fatal
+13,Rain,Ice,Darkness - no lights,70,1,2,Serious
+6,Rain,Ice,Darkness - lights lit,30,2,1,Fatal
+12,Snow,Wet,Darkness - no lights,50,2,2,Slight
+12,Clear,Wet,Darkness - no lights,30,4,2,Slight
+11,Rain,Ice,Daylight,70,1,4,Serious
+7,Snow,Snow,Darkness - lights lit,30,4,3,Fatal
+1,Clear,Ice,Daylight,70,3,2,Serious
+1,Rain,Wet,Daylight,30,1,3,Slight
+13,Rain,Dry,Daylight,70,1,4,Slight
+9,Clear,Dry,Darkness - lights lit,60,3,3,Fatal
+3,Clear,Snow,Darkness - lights lit,30,3,4,Fatal
+7,Clear,Ice,Darkness - no lights,30,4,1,Fatal
+6,Rain,Dry,Daylight,60,4,3,Serious
+8,Rain,Ice,Darkness - no lights,60,3,3,Fatal
+9,Snow,Wet,Daylight,30,4,1,Fatal
+5,Fog,Dry,Darkness - lights lit,60,3,3,Slight
+1,Clear,Snow,Darkness - lights lit,50,1,1,Slight
+19,Rain,Wet,Darkness - lights lit,70,1,2,Fatal
+10,Rain,Snow,Daylight,70,2,4,Fatal
+12,Clear,Wet,Darkness - lights lit,70,1,1,Slight
+15,Fog,Dry,Daylight,50,3,3,Fatal
+9,Clear,Snow,Darkness - no lights,60,4,1,Serious
+17,Fog,Snow,Daylight,60,2,3,Serious
+17,Rain,Wet,Darkness - no lights,30,4,2,Serious
+12,Fog,Snow,Daylight,60,3,1,Fatal
+7,Snow,Wet,Darkness - no lights,30,1,2,Slight
+2,Rain,Wet,Darkness - lights lit,50,2,4,Fatal
+3,Snow,Wet,Darkness - no lights,70,3,3,Fatal
+17,Clear,Wet,Darkness - lights lit,70,2,3,Slight
+5,Clear,Dry,Darkness - lights lit,70,2,2,Slight
+17,Clear,Wet,Darkness - no lights,60,1,4,Slight
+17,Fog,Ice,Daylight,30,3,1,Serious
+17,Rain,Snow,Daylight,30,4,1,Fatal
+2,Clear,Ice,Daylight,50,2,3,Slight
+2,Clear,Dry,Daylight,60,2,2,Fatal
+5,Rain,Ice,Daylight,50,4,2,Serious
+1,Clear,Snow,Darkness - lights lit,30,3,1,Serious
+1,Snow,Ice,Daylight,30,2,4,Slight
+19,Rain,Dry,Darkness - lights lit,70,2,4,Slight
+2,Rain,Wet,Darkness - lights lit,60,2,1,Fatal
+12,Rain,Ice,Darkness - lights lit,30,3,1,Slight
+6,Snow,Dry,Darkness - no lights,70,3,2,Fatal
+4,Rain,Dry,Darkness - no lights,60,4,4,Slight
+11,Snow,Snow,Darkness - lights lit,50,3,1,Fatal
+17,Rain,Snow,Darkness - no lights,60,3,1,Fatal
+6,Fog,Ice,Daylight,60,1,3,Fatal
+5,Clear,Wet,Daylight,30,4,1,Fatal
+2,Fog,Dry,Darkness - lights lit,30,2,1,Serious
+6,Clear,Ice,Daylight,60,3,4,Fatal
+11,Snow,Dry,Darkness - lights lit,30,2,2,Slight
+16,Fog,Dry,Darkness - lights lit,30,2,4,Serious
+16,Rain,Wet,Daylight,30,1,2,Serious
+1,Clear,Wet,Darkness - no lights,70,3,3,Fatal
+9,Clear,Ice,Daylight,70,4,1,Serious
+6,Fog,Wet,Daylight,60,3,3,Fatal
+16,Snow,Wet,Darkness - lights lit,30,2,2,Slight
+3,Fog,Ice,Darkness - lights lit,70,4,4,Fatal
+4,Snow,Wet,Darkness - lights lit,60,3,4,Serious
+19,Snow,Snow,Darkness - lights lit,30,2,3,Slight
+3,Clear,Dry,Darkness - no lights,50,2,2,Fatal
+19,Fog,Dry,Darkness - no lights,30,1,3,Slight
+7,Fog,Dry,Darkness - no lights,30,1,3,Slight
+9,Snow,Dry,Darkness - lights lit,70,1,1,Serious
+1,Fog,Ice,Darkness - lights lit,60,2,3,Slight
+8,Rain,Dry,Darkness - lights lit,60,3,1,Serious
+7,Rain,Dry,Darkness - no lights,70,1,1,Slight
+18,Fog,Dry,Darkness - lights lit,30,3,4,Fatal
+8,Fog,Dry,Daylight,50,1,1,Slight
+1,Snow,Snow,Daylight,30,4,1,Fatal
+11,Rain,Dry,Darkness - lights lit,30,4,4,Fatal
+18,Rain,Snow,Daylight,50,1,3,Slight
+10,Clear,Ice,Daylight,70,2,2,Fatal
+3,Snow,Wet,Darkness - no lights,60,1,2,Slight
+7,Clear,Dry,Darkness - lights lit,70,1,2,Slight
+16,Rain,Wet,Darkness - lights lit,70,2,3,Fatal
+16,Snow,Wet,Darkness - no lights,30,4,1,Fatal
+17,Fog,Ice,Daylight,60,3,2,Serious
+2,Snow,Wet,Daylight,60,1,3,Fatal
+1,Fog,Snow,Darkness - lights lit,70,2,1,Serious
+16,Fog,Wet,Daylight,50,1,4,Fatal
+12,Snow,Wet,Darkness - no lights,70,2,2,Slight
+5,Fog,Wet,Darkness - no lights,50,3,1,Fatal
+5,Clear,Dry,Darkness - lights lit,60,3,2,Slight
+9,Rain,Dry,Darkness - no lights,70,4,2,Slight
+9,Fog,Snow,Darkness - no lights,30,2,2,Slight
+3,Clear,Snow,Darkness - lights lit,70,2,1,Serious
+19,Fog,Dry,Darkness - no lights,60,4,3,Fatal
+16,Rain,Snow,Darkness - no lights,30,4,1,Slight
+16,Clear,Dry,Darkness - no lights,30,2,2,Slight
+3,Rain,Ice,Daylight,50,4,1,Serious
+1,Rain,Wet,Darkness - lights lit,30,3,4,Fatal
+11,Clear,Wet,Darkness - lights lit,30,1,3,Fatal
+17,Clear,Snow,Darkness - lights lit,70,3,1,Serious
+8,Clear,Dry,Daylight,60,4,4,Serious
+4,Snow,Dry,Daylight,50,2,3,Fatal
+6,Clear,Snow,Darkness - lights lit,70,2,4,Serious
+8,Clear,Dry,Daylight,30,3,3,Fatal
+3,Clear,Ice,Darkness - lights lit,30,2,1,Fatal
+16,Clear,Wet,Daylight,50,4,4,Slight
+3,Fog,Snow,Darkness - no lights,60,3,2,Slight
+18,Snow,Snow,Darkness - no lights,50,2,4,Fatal
+14,Rain,Dry,Darkness - lights lit,70,1,3,Fatal
+18,Clear,Snow,Daylight,50,1,1,Fatal
+2,Fog,Ice,Daylight,30,4,3,Fatal
+3,Fog,Dry,Darkness - no lights,70,2,4,Fatal
+16,Fog,Dry,Darkness - no lights,30,4,4,Fatal
+9,Rain,Dry,Daylight,60,3,2,Serious
+4,Clear,Dry,Daylight,30,1,1,Fatal
+1,Snow,Ice,Daylight,30,3,1,Serious
+4,Snow,Dry,Daylight,50,2,4,Serious
+1,Fog,Snow,Daylight,30,4,1,Fatal
+14,Rain,Ice,Daylight,70,4,2,Fatal
+16,Rain,Wet,Darkness - lights lit,70,4,3,Serious
+8,Rain,Wet,Daylight,60,3,1,Serious
+7,Snow,Snow,Darkness - no lights,70,1,4,Fatal
+3,Fog,Snow,Darkness - lights lit,50,3,3,Fatal
+17,Clear,Ice,Daylight,60,3,3,Serious
+1,Snow,Wet,Darkness - no lights,70,2,2,Serious
+16,Fog,Wet,Darkness - lights lit,50,2,4,Serious
+12,Fog,Wet,Darkness - no lights,70,2,1,Slight
+19,Clear,Wet,Daylight,70,1,4,Serious
+14,Clear,Wet,Daylight,30,1,3,Slight
+6,Clear,Dry,Daylight,70,2,4,Fatal
+6,Rain,Snow,Daylight,70,2,1,Fatal
+13,Clear,Dry,Darkness - lights lit,50,1,1,Serious
+19,Fog,Wet,Darkness - lights lit,50,4,2,Fatal
+8,Clear,Ice,Darkness - no lights,30,1,1,Fatal
+2,Fog,Ice,Daylight,70,1,1,Fatal
+1,Snow,Wet,Darkness - no lights,30,1,4,Fatal
+15,Rain,Wet,Darkness - lights lit,70,2,4,Slight
+1,Snow,Ice,Daylight,60,4,3,Slight
+5,Snow,Dry,Daylight,60,1,2,Serious
+16,Fog,Dry,Darkness - lights lit,30,2,4,Serious
+19,Snow,Wet,Darkness - lights lit,30,3,1,Serious
+4,Fog,Dry,Darkness - lights lit,30,3,3,Fatal
+3,Clear,Ice,Darkness - lights lit,50,1,4,Fatal
+17,Clear,Dry,Darkness - lights lit,50,3,2,Slight
+17,Fog,Wet,Daylight,50,4,2,Slight
+12,Clear,Ice,Darkness - lights lit,30,3,3,Serious
+14,Rain,Dry,Daylight,70,3,3,Slight
+6,Snow,Snow,Daylight,60,4,3,Slight
+3,Rain,Ice,Darkness - lights lit,30,1,3,Slight
+9,Snow,Ice,Darkness - lights lit,50,1,3,Slight
+5,Clear,Snow,Daylight,50,4,1,Slight
+17,Rain,Snow,Darkness - lights lit,30,4,1,Serious
+14,Clear,Ice,Darkness - lights lit,30,4,4,Serious
+3,Snow,Snow,Darkness - lights lit,50,3,2,Slight
+1,Fog,Wet,Darkness - no lights,70,4,1,Serious
+1,Fog,Wet,Daylight,50,2,1,Fatal
+3,Rain,Wet,Darkness - no lights,50,3,1,Slight
+18,Clear,Ice,Darkness - lights lit,30,1,4,Fatal
+10,Clear,Snow,Darkness - no lights,70,1,3,Serious
+3,Rain,Snow,Darkness - lights lit,50,1,4,Serious
+8,Fog,Dry,Darkness - no lights,50,3,2,Fatal
+14,Snow,Dry,Darkness - lights lit,60,2,2,Serious
+18,Rain,Snow,Darkness - no lights,30,4,2,Slight
+15,Snow,Snow,Darkness - no lights,60,4,2,Fatal
+2,Fog,Snow,Darkness - no lights,60,1,1,Slight
+10,Clear,Ice,Daylight,50,1,1,Fatal
+2,Fog,Snow,Darkness - no lights,30,3,4,Serious
+17,Rain,Dry,Daylight,70,2,3,Fatal
+8,Clear,Ice,Darkness - lights lit,50,4,2,Fatal
+1,Rain,Snow,Darkness - no lights,70,3,4,Slight
+9,Rain,Dry,Darkness - lights lit,70,4,1,Serious
+11,Fog,Ice,Darkness - lights lit,30,1,1,Slight
+16,Rain,Snow,Darkness - no lights,60,4,3,Serious
+7,Fog,Snow,Daylight,30,2,3,Slight
+10,Clear,Snow,Darkness - no lights,70,2,3,Fatal
+3,Fog,Ice,Darkness - lights lit,50,1,4,Slight
+18,Clear,Dry,Darkness - lights lit,70,2,1,Serious
+13,Fog,Dry,Darkness - no lights,50,2,1,Serious
+7,Snow,Wet,Daylight,50,3,3,Fatal
+4,Snow,Snow,Daylight,30,4,2,Serious
+13,Rain,Wet,Darkness - lights lit,70,1,3,Slight
+1,Fog,Wet,Darkness - lights lit,60,1,4,Fatal
+8,Fog,Dry,Daylight,70,1,3,Serious
+14,Clear,Ice,Darkness - no lights,70,1,3,Serious
+16,Rain,Ice,Darkness - lights lit,60,1,4,Slight
+14,Fog,Dry,Daylight,30,2,3,Slight
+12,Rain,Ice,Darkness - lights lit,70,3,1,Fatal
+19,Snow,Wet,Darkness - no lights,70,1,2,Serious
+15,Fog,Snow,Daylight,50,3,3,Slight
+2,Fog,Dry,Darkness - lights lit,70,3,4,Fatal
+2,Rain,Snow,Darkness - no lights,60,2,2,Serious
+19,Fog,Ice,Darkness - lights lit,50,1,4,Serious
+17,Rain,Snow,Darkness - no lights,30,2,2,Fatal
+10,Fog,Ice,Darkness - no lights,50,1,2,Fatal
+6,Clear,Ice,Daylight,60,2,3,Slight
+15,Rain,Wet,Darkness - no lights,60,3,1,Serious
+11,Fog,Ice,Darkness - lights lit,50,1,3,Serious
+5,Snow,Wet,Darkness - no lights,30,4,4,Serious
+1,Fog,Wet,Darkness - no lights,50,3,4,Fatal
+8,Snow,Wet,Daylight,30,4,2,Slight
+12,Snow,Dry,Darkness - no lights,50,3,2,Serious
+12,Clear,Dry,Darkness - no lights,60,2,1,Fatal
+5,Rain,Ice,Darkness - lights lit,70,1,3,Serious
+7,Fog,Wet,Daylight,70,3,4,Slight
+4,Clear,Dry,Daylight,30,2,2,Serious
+6,Fog,Wet,Daylight,30,1,1,Slight
+13,Snow,Snow,Darkness - no lights,30,1,4,Slight
+15,Rain,Snow,Daylight,60,3,2,Serious
+3,Fog,Snow,Darkness - no lights,50,1,4,Serious
+8,Fog,Ice,Darkness - no lights,60,3,1,Slight
+16,Snow,Wet,Darkness - lights lit,70,1,1,Fatal
+13,Fog,Snow,Darkness - lights lit,30,4,4,Slight
+18,Fog,Dry,Darkness - lights lit,50,2,3,Serious
+10,Snow,Snow,Darkness - lights lit,70,4,4,Serious
+19,Clear,Snow,Darkness - lights lit,70,3,2,Fatal
+17,Snow,Snow,Darkness - no lights,70,4,3,Slight
+19,Clear,Ice,Darkness - no lights,60,3,2,Slight
+5,Rain,Dry,Daylight,30,1,4,Slight
+9,Clear,Wet,Darkness - no lights,70,1,3,Serious
+12,Clear,Dry,Darkness - no lights,30,3,2,Slight
+1,Rain,Wet,Darkness - lights lit,60,4,4,Fatal
+1,Clear,Ice,Darkness - no lights,70,1,4,Serious
+15,Snow,Ice,Darkness - lights lit,60,2,3,Serious
+2,Clear,Ice,Daylight,60,1,4,Slight
+16,Rain,Ice,Daylight,30,2,1,Fatal
+8,Snow,Wet,Darkness - no lights,70,4,2,Serious
+13,Rain,Snow,Daylight,60,2,2,Serious
+1,Rain,Wet,Darkness - no lights,70,2,4,Slight
+16,Fog,Dry,Daylight,30,2,4,Slight
+7,Fog,Ice,Darkness - lights lit,60,2,1,Fatal
+5,Rain,Ice,Darkness - lights lit,30,1,3,Slight
+3,Rain,Dry,Darkness - lights lit,70,2,4,Fatal
+12,Rain,Wet,Darkness - lights lit,70,1,4,Serious
+16,Fog,Snow,Darkness - no lights,30,2,4,Fatal
+19,Fog,Snow,Daylight,50,3,4,Fatal
+5,Clear,Dry,Darkness - no lights,60,4,2,Fatal
+14,Clear,Snow,Darkness - lights lit,70,2,4,Serious
+5,Rain,Wet,Darkness - no lights,70,3,2,Slight
+15,Snow,Wet,Daylight,60,2,4,Serious
+17,Snow,Dry,Darkness - no lights,30,2,3,Slight
+14,Fog,Wet,Daylight,30,2,1,Fatal
+5,Fog,Ice,Darkness - no lights,30,3,3,Fatal
+12,Fog,Dry,Daylight,50,4,4,Fatal
+16,Rain,Wet,Daylight,50,3,4,Fatal
+16,Snow,Dry,Darkness - lights lit,70,4,4,Fatal
+7,Clear,Snow,Daylight,30,2,3,Slight
+4,Rain,Wet,Darkness - lights lit,60,1,4,Slight
+1,Clear,Ice,Darkness - lights lit,70,2,3,Fatal
+5,Clear,Wet,Darkness - lights lit,60,4,2,Serious
+10,Rain,Dry,Darkness - no lights,70,3,1,Serious
+5,Clear,Dry,Darkness - no lights,50,2,1,Fatal
+4,Snow,Wet,Darkness - no lights,70,3,3,Slight
+2,Clear,Ice,Darkness - no lights,50,3,2,Serious
+10,Snow,Ice,Daylight,70,3,3,Serious
+19,Snow,Ice,Daylight,30,2,2,Serious
+1,Snow,Dry,Darkness - no lights,60,3,4,Fatal
+5,Fog,Wet,Daylight,30,3,2,Serious
+13,Clear,Snow,Daylight,70,2,2,Serious
+4,Rain,Dry,Darkness - lights lit,70,3,2,Serious
+16,Rain,Ice,Darkness - lights lit,70,2,1,Serious
+16,Clear,Wet,Darkness - lights lit,50,4,2,Slight
+2,Fog,Ice,Darkness - lights lit,60,4,4,Fatal
+17,Fog,Snow,Daylight,60,4,4,Fatal
+12,Snow,Ice,Darkness - no lights,70,3,4,Slight
+18,Clear,Ice,Daylight,70,1,2,Slight
+3,Clear,Snow,Daylight,50,1,3,Fatal
+1,Rain,Wet,Daylight,30,3,3,Serious
+1,Clear,Dry,Darkness - lights lit,30,1,4,Serious
+19,Fog,Wet,Darkness - lights lit,60,2,1,Fatal
+11,Clear,Snow,Darkness - lights lit,50,1,3,Serious
+5,Rain,Ice,Darkness - no lights,70,3,2,Slight
+12,Snow,Wet,Daylight,60,3,3,Serious
+3,Rain,Dry,Darkness - no lights,50,2,4,Serious
+1,Rain,Snow,Darkness - lights lit,30,4,1,Serious
+1,Snow,Wet,Darkness - no lights,50,3,3,Fatal
+8,Rain,Dry,Daylight,30,2,3,Slight
+10,Rain,Snow,Daylight,50,1,4,Serious
+11,Clear,Dry,Darkness - lights lit,60,1,1,Fatal
+12,Clear,Snow,Darkness - lights lit,30,2,1,Serious
+13,Snow,Ice,Darkness - no lights,60,2,4,Slight
+12,Clear,Wet,Darkness - lights lit,60,3,2,Serious
+14,Clear,Dry,Darkness - lights lit,30,1,3,Slight
+2,Rain,Snow,Daylight,30,2,2,Serious
+19,Fog,Dry,Darkness - lights lit,70,1,3,Slight
+18,Clear,Dry,Darkness - lights lit,70,2,3,Serious
+3,Fog,Wet,Daylight,70,1,2,Slight
+17,Clear,Ice,Daylight,60,4,4,Serious
+8,Clear,Dry,Darkness - no lights,60,3,4,Serious
+10,Snow,Snow,Darkness - lights lit,70,1,3,Fatal
+2,Snow,Snow,Daylight,60,4,4,Fatal
+19,Snow,Ice,Darkness - no lights,60,1,3,Slight
+9,Fog,Snow,Darkness - no lights,30,1,4,Serious
+7,Rain,Ice,Darkness - lights lit,30,4,3,Slight
+4,Clear,Snow,Darkness - lights lit,60,1,4,Fatal
+18,Clear,Wet,Darkness - no lights,70,1,1,Slight
+13,Clear,Dry,Daylight,50,3,2,Slight
+11,Fog,Wet,Darkness - no lights,70,4,1,Fatal
+4,Snow,Dry,Darkness - lights lit,50,4,2,Serious
+4,Rain,Dry,Daylight,70,2,2,Slight
+10,Fog,Dry,Daylight,30,1,3,Fatal
+5,Snow,Wet,Darkness - no lights,60,3,2,Serious
+9,Fog,Dry,Darkness - lights lit,60,1,1,Fatal
+3,Rain,Wet,Darkness - no lights,30,1,1,Slight
+17,Snow,Ice,Darkness - no lights,50,2,4,Serious
+3,Fog,Snow,Darkness - no lights,50,1,1,Serious
+16,Rain,Snow,Daylight,50,3,4,Fatal
+4,Clear,Dry,Daylight,30,3,2,Fatal
+18,Rain,Wet,Darkness - lights lit,50,2,1,Fatal
+17,Clear,Snow,Darkness - lights lit,30,1,2,Serious
+7,Fog,Wet,Darkness - no lights,70,3,1,Serious
+5,Snow,Wet,Darkness - no lights,70,1,1,Slight
+12,Snow,Dry,Darkness - no lights,30,1,4,Serious
+17,Fog,Snow,Darkness - lights lit,60,1,2,Slight
+13,Snow,Dry,Daylight,70,2,1,Fatal
+3,Snow,Dry,Daylight,50,1,3,Fatal
+9,Clear,Snow,Darkness - no lights,30,3,2,Serious
+17,Fog,Snow,Darkness - no lights,50,1,2,Fatal
+17,Rain,Ice,Darkness - no lights,50,3,2,Fatal
+16,Clear,Ice,Darkness - no lights,60,1,4,Serious
+13,Fog,Wet,Darkness - lights lit,50,3,3,Slight
+19,Clear,Snow,Daylight,60,3,2,Serious
+17,Rain,Ice,Darkness - no lights,70,1,1,Slight
+4,Rain,Wet,Darkness - lights lit,30,1,1,Serious
+12,Fog,Wet,Darkness - no lights,50,3,4,Serious
+9,Rain,Wet,Darkness - no lights,30,4,1,Fatal
+19,Clear,Ice,Daylight,50,2,2,Serious
+12,Rain,Snow,Darkness - no lights,30,4,1,Serious
+9,Clear,Dry,Daylight,50,4,2,Slight
+7,Clear,Wet,Daylight,50,1,1,Fatal
+14,Rain,Ice,Daylight,50,2,3,Slight
+19,Fog,Ice,Darkness - lights lit,50,4,4,Slight
+15,Snow,Dry,Darkness - lights lit,50,1,4,Fatal
+16,Rain,Dry,Daylight,50,4,3,Fatal
+5,Clear,Ice,Darkness - no lights,50,4,3,Fatal
+3,Clear,Snow,Daylight,50,1,4,Serious
+12,Rain,Dry,Darkness - no lights,50,1,3,Fatal
+4,Fog,Ice,Daylight,30,1,2,Fatal
+16,Fog,Dry,Darkness - no lights,60,2,1,Fatal
+7,Clear,Snow,Darkness - lights lit,50,4,4,Slight
+13,Clear,Wet,Darkness - no lights,60,1,3,Slight
+10,Fog,Dry,Daylight,50,3,2,Serious
+7,Snow,Snow,Darkness - lights lit,50,4,4,Slight
+14,Rain,Ice,Darkness - no lights,30,3,3,Serious
+5,Clear,Dry,Darkness - no lights,70,2,4,Slight
+3,Clear,Dry,Darkness - no lights,70,1,3,Fatal
+11,Fog,Ice,Darkness - no lights,30,3,4,Slight
+11,Rain,Wet,Darkness - no lights,60,2,2,Serious
+18,Fog,Ice,Darkness - lights lit,70,1,2,Slight
+15,Rain,Dry,Darkness - lights lit,30,3,1,Fatal
+12,Rain,Ice,Darkness - lights lit,30,3,4,Serious
+9,Rain,Snow,Darkness - lights lit,70,2,1,Fatal
+10,Clear,Ice,Daylight,60,1,4,Fatal
+12,Snow,Dry,Darkness - lights lit,30,1,3,Serious
+17,Fog,Ice,Darkness - no lights,50,3,3,Fatal
+6,Snow,Wet,Darkness - no lights,60,3,1,Fatal
+7,Fog,Ice,Darkness - lights lit,60,3,4,Slight
+14,Rain,Wet,Darkness - no lights,70,1,1,Fatal
+13,Clear,Snow,Darkness - lights lit,70,2,2,Fatal
+8,Snow,Wet,Darkness - no lights,50,2,1,Fatal
+10,Clear,Ice,Daylight,30,1,1,Fatal
+9,Fog,Dry,Daylight,70,4,3,Serious
+18,Clear,Wet,Darkness - lights lit,70,2,1,Slight
+2,Clear,Snow,Darkness - lights lit,60,3,4,Fatal
+5,Snow,Wet,Darkness - lights lit,70,4,3,Fatal
+5,Rain,Wet,Darkness - no lights,70,4,1,Serious
+6,Clear,Wet,Darkness - lights lit,70,2,2,Fatal
+19,Rain,Snow,Daylight,70,4,1,Serious
+8,Fog,Ice,Darkness - no lights,60,4,1,Slight
+16,Clear,Wet,Darkness - lights lit,50,2,1,Slight
+13,Snow,Wet,Darkness - no lights,50,2,3,Fatal
+1,Fog,Dry,Darkness - no lights,30,4,4,Fatal
+17,Fog,Snow,Darkness - lights lit,70,3,2,Fatal
+7,Snow,Wet,Darkness - no lights,60,1,1,Serious
+13,Clear,Snow,Daylight,30,4,4,Fatal
+4,Clear,Wet,Daylight,30,4,4,Fatal
+4,Fog,Ice,Darkness - no lights,50,3,3,Slight
+6,Clear,Ice,Darkness - lights lit,60,4,2,Fatal
+19,Rain,Wet,Darkness - no lights,60,4,3,Slight
+12,Snow,Ice,Daylight,60,1,4,Fatal
+7,Rain,Wet,Darkness - no lights,50,1,4,Slight
+10,Clear,Ice,Darkness - no lights,50,1,4,Fatal
+19,Fog,Dry,Daylight,50,2,3,Slight
+7,Snow,Dry,Darkness - no lights,50,2,2,Serious
+3,Clear,Dry,Darkness - no lights,50,1,1,Slight
+13,Clear,Snow,Darkness - lights lit,70,1,3,Slight
+13,Fog,Snow,Darkness - lights lit,70,2,4,Slight
+18,Fog,Dry,Daylight,60,3,3,Fatal
+8,Rain,Snow,Daylight,30,4,4,Fatal
+9,Snow,Ice,Daylight,60,4,1,Fatal
+7,Snow,Wet,Darkness - lights lit,30,1,1,Serious
+1,Fog,Wet,Daylight,50,3,2,Serious
+3,Rain,Wet,Daylight,30,2,4,Slight
+13,Snow,Dry,Daylight,60,1,2,Serious
+17,Fog,Snow,Darkness - lights lit,60,3,2,Slight
+1,Clear,Ice,Darkness - no lights,30,3,1,Slight
+6,Snow,Ice,Daylight,70,3,3,Slight
+6,Rain,Dry,Darkness - no lights,50,2,3,Serious
+12,Rain,Ice,Daylight,50,2,2,Fatal
+13,Rain,Ice,Darkness - no lights,60,4,1,Serious
+13,Clear,Ice,Darkness - lights lit,70,4,4,Slight
+15,Snow,Ice,Darkness - lights lit,30,3,3,Slight
+16,Snow,Snow,Daylight,50,3,2,Serious
+11,Clear,Ice,Darkness - no lights,70,2,3,Slight
+5,Snow,Wet,Darkness - lights lit,50,4,3,Slight
+4,Clear,Dry,Daylight,70,3,4,Serious
+3,Clear,Snow,Daylight,70,4,1,Serious
+19,Clear,Ice,Darkness - lights lit,60,4,4,Serious
+18,Rain,Snow,Darkness - lights lit,50,3,1,Slight
+15,Snow,Ice,Daylight,30,2,3,Slight
+9,Clear,Wet,Darkness - no lights,60,3,2,Fatal
+17,Snow,Dry,Darkness - no lights,60,3,4,Fatal
+14,Rain,Ice,Darkness - no lights,30,4,1,Serious
+15,Clear,Ice,Daylight,60,3,3,Fatal
+1,Fog,Ice,Darkness - lights lit,70,2,1,Slight
+3,Rain,Ice,Daylight,70,3,1,Fatal
+16,Fog,Dry,Darkness - lights lit,50,2,1,Slight
+11,Snow,Dry,Darkness - no lights,50,2,3,Serious
+12,Snow,Wet,Darkness - no lights,30,4,2,Serious
+10,Rain,Dry,Darkness - lights lit,50,1,2,Slight
+16,Snow,Ice,Darkness - lights lit,70,1,2,Fatal
+8,Fog,Wet,Daylight,30,4,1,Serious
+6,Clear,Wet,Darkness - no lights,30,3,3,Serious
+12,Clear,Wet,Daylight,50,4,1,Fatal
+8,Clear,Ice,Daylight,70,2,2,Fatal
+4,Rain,Snow,Daylight,30,1,2,Slight
+8,Snow,Ice,Darkness - no lights,70,4,3,Fatal
+18,Fog,Dry,Daylight,70,3,1,Fatal
+5,Snow,Dry,Daylight,70,4,4,Fatal
+9,Snow,Ice,Daylight,50,1,4,Slight
+4,Snow,Ice,Daylight,60,4,2,Slight
+17,Clear,Wet,Daylight,60,4,3,Serious
+9,Fog,Ice,Daylight,30,1,1,Slight
+1,Fog,Wet,Darkness - no lights,70,2,1,Serious
+13,Snow,Dry,Daylight,50,2,2,Fatal
+16,Clear,Wet,Darkness - lights lit,70,1,2,Serious
+13,Clear,Ice,Daylight,70,4,1,Serious
+14,Fog,Dry,Daylight,50,1,1,Fatal
+3,Clear,Snow,Darkness - no lights,60,2,2,Serious
+6,Clear,Wet,Darkness - no lights,70,3,1,Slight
+18,Clear,Dry,Darkness - lights lit,70,4,4,Slight
+19,Rain,Wet,Darkness - lights lit,60,2,2,Slight
+5,Snow,Dry,Darkness - no lights,50,4,1,Slight
+15,Fog,Dry,Darkness - no lights,30,1,2,Serious
+2,Fog,Wet,Daylight,60,3,3,Serious
+10,Rain,Snow,Darkness - no lights,30,1,2,Fatal
+18,Snow,Dry,Darkness - lights lit,30,3,2,Serious
+13,Fog,Dry,Daylight,60,4,3,Serious
+5,Clear,Dry,Darkness - lights lit,70,4,4,Serious
+1,Fog,Snow,Daylight,30,1,1,Fatal
+1,Clear,Snow,Darkness - no lights,30,3,3,Slight
+18,Rain,Ice,Darkness - lights lit,50,3,2,Serious
+15,Clear,Wet,Daylight,70,4,1,Fatal
+17,Fog,Snow,Daylight,30,1,3,Fatal
+11,Fog,Wet,Darkness - no lights,50,3,1,Fatal
+17,Fog,Ice,Darkness - no lights,70,4,1,Slight
+13,Rain,Wet,Darkness - no lights,60,2,3,Serious
+1,Rain,Snow,Darkness - lights lit,60,1,1,Fatal
+2,Snow,Wet,Daylight,50,2,4,Slight
+9,Fog,Snow,Darkness - no lights,60,1,3,Fatal
+3,Clear,Wet,Darkness - lights lit,30,4,4,Fatal
+1,Rain,Snow,Darkness - lights lit,70,3,2,Fatal
+16,Fog,Snow,Darkness - lights lit,30,3,1,Fatal
+6,Fog,Wet,Darkness - no lights,30,3,2,Fatal
+17,Rain,Ice,Darkness - no lights,60,1,2,Slight
+5,Snow,Dry,Daylight,30,4,1,Serious
+5,Rain,Ice,Daylight,60,2,3,Serious
+6,Rain,Wet,Darkness - no lights,70,4,1,Serious
+3,Clear,Ice,Darkness - lights lit,70,2,2,Serious
+5,Clear,Snow,Darkness - lights lit,30,1,2,Slight
+5,Snow,Dry,Darkness - lights lit,50,1,3,Slight
+10,Fog,Wet,Daylight,60,2,1,Slight
+10,Rain,Wet,Darkness - lights lit,60,2,2,Fatal
+19,Snow,Wet,Daylight,30,2,4,Fatal
+17,Clear,Dry,Daylight,60,4,2,Fatal
+14,Rain,Snow,Darkness - lights lit,60,2,2,Serious
+9,Fog,Wet,Darkness - lights lit,50,1,3,Fatal
+14,Clear,Ice,Darkness - no lights,50,1,4,Serious
+1,Clear,Wet,Darkness - no lights,30,3,2,Fatal
+19,Clear,Wet,Darkness - lights lit,50,2,2,Serious
+13,Snow,Wet,Daylight,30,4,4,Fatal
+13,Fog,Wet,Daylight,70,4,1,Fatal
+4,Rain,Snow,Daylight,30,4,1,Slight
+1,Snow,Ice,Daylight,70,3,2,Fatal
+17,Snow,Snow,Daylight,30,1,2,Fatal
+8,Snow,Ice,Darkness - no lights,60,4,1,Slight
+2,Clear,Wet,Darkness - lights lit,50,1,3,Serious
+8,Fog,Dry,Darkness - no lights,70,3,4,Slight
+7,Snow,Snow,Daylight,30,2,4,Slight
+2,Rain,Dry,Daylight,50,2,3,Serious
+3,Fog,Snow,Daylight,30,2,3,Fatal
+18,Rain,Wet,Daylight,50,4,3,Serious
+12,Fog,Snow,Darkness - lights lit,50,2,3,Fatal
+1,Rain,Wet,Daylight,30,4,3,Fatal
+12,Clear,Snow,Darkness - lights lit,70,3,3,Serious
+5,Snow,Wet,Daylight,70,3,4,Slight
+17,Rain,Wet,Darkness - lights lit,60,4,3,Serious
+16,Fog,Ice,Darkness - no lights,50,1,1,Fatal
+15,Snow,Wet,Daylight,60,2,3,Serious
+15,Snow,Ice,Darkness - lights lit,60,2,3,Serious
+5,Fog,Wet,Darkness - no lights,30,2,4,Fatal
+14,Rain,Dry,Daylight,30,4,4,Slight
+2,Clear,Wet,Daylight,30,3,3,Serious
+11,Clear,Dry,Daylight,50,2,4,Fatal
+19,Rain,Dry,Darkness - lights lit,30,3,2,Fatal
+7,Snow,Wet,Darkness - lights lit,30,2,4,Serious
+6,Snow,Dry,Darkness - no lights,50,2,4,Slight
+2,Snow,Ice,Darkness - lights lit,50,4,4,Serious
+6,Snow,Snow,Darkness - lights lit,70,1,4,Slight
+18,Rain,Wet,Daylight,30,4,1,Slight
+2,Snow,Dry,Daylight,30,2,1,Slight
+18,Fog,Wet,Daylight,30,2,1,Slight
+15,Snow,Ice,Daylight,70,1,3,Serious
+19,Clear,Wet,Daylight,30,3,3,Fatal
+2,Snow,Wet,Daylight,70,3,2,Fatal
+6,Rain,Dry,Daylight,60,2,1,Fatal
+1,Clear,Ice,Darkness - no lights,70,3,3,Fatal
+15,Rain,Snow,Darkness - no lights,60,2,4,Fatal
+10,Rain,Snow,Darkness - no lights,30,1,4,Fatal
+19,Clear,Dry,Darkness - no lights,60,1,1,Serious
+17,Rain,Wet,Daylight,70,2,2,Slight
+5,Rain,Dry,Darkness - no lights,50,1,2,Fatal
+4,Snow,Dry,Daylight,60,4,4,Serious
+10,Fog,Dry,Darkness - no lights,60,4,2,Fatal
+17,Rain,Wet,Darkness - lights lit,30,1,1,Fatal
+10,Rain,Ice,Darkness - no lights,70,2,4,Slight
+17,Rain,Dry,Darkness - no lights,60,2,3,Slight
+5,Snow,Wet,Daylight,60,1,3,Slight
+2,Fog,Ice,Darkness - no lights,60,3,2,Fatal
+6,Clear,Dry,Darkness - lights lit,60,4,4,Fatal
+2,Snow,Snow,Daylight,50,3,4,Fatal
+13,Snow,Ice,Daylight,70,2,3,Slight
+11,Fog,Dry,Darkness - no lights,30,2,4,Serious
+11,Fog,Ice,Daylight,30,3,4,Fatal
+16,Snow,Ice,Daylight,50,1,4,Fatal
+11,Clear,Ice,Daylight,70,3,2,Fatal
+19,Snow,Ice,Daylight,60,3,4,Serious
+15,Fog,Ice,Daylight,50,4,1,Fatal
+16,Clear,Ice,Daylight,70,4,2,Serious
+11,Fog,Dry,Darkness - lights lit,60,3,4,Fatal
+16,Clear,Snow,Darkness - no lights,50,3,4,Serious
+8,Rain,Wet,Darkness - lights lit,70,2,1,Fatal
+4,Fog,Ice,Daylight,30,4,2,Slight
+8,Fog,Wet,Daylight,30,4,3,Slight
+4,Snow,Dry,Darkness - no lights,70,2,3,Slight
+3,Fog,Ice,Darkness - lights lit,30,1,2,Slight
+3,Fog,Snow,Darkness - no lights,70,4,4,Fatal
+18,Rain,Wet,Darkness - lights lit,60,4,4,Slight
+19,Fog,Ice,Daylight,70,1,3,Serious
+19,Rain,Dry,Darkness - no lights,60,4,3,Slight
+5,Rain,Snow,Darkness - no lights,50,4,3,Slight
+18,Rain,Wet,Daylight,70,1,1,Slight
+10,Rain,Wet,Darkness - no lights,50,1,3,Fatal
+6,Clear,Ice,Darkness - lights lit,30,3,1,Slight
+1,Snow,Snow,Darkness - lights lit,60,2,2,Serious
+5,Clear,Snow,Darkness - lights lit,70,2,4,Slight
+9,Fog,Snow,Darkness - lights lit,50,1,3,Slight
+12,Clear,Snow,Daylight,60,1,4,Slight
+14,Clear,Dry,Darkness - no lights,60,4,4,Serious
+2,Fog,Snow,Darkness - lights lit,30,3,3,Slight
+17,Fog,Wet,Daylight,30,3,3,Serious
+14,Fog,Wet,Darkness - no lights,60,1,2,Serious
+13,Clear,Dry,Darkness - no lights,60,4,1,Slight
+9,Clear,Wet,Daylight,70,4,1,Serious
+15,Fog,Wet,Daylight,60,2,4,Fatal
+15,Snow,Snow,Darkness - lights lit,70,2,3,Slight
+11,Snow,Wet,Darkness - no lights,60,4,2,Slight
+16,Rain,Dry,Darkness - no lights,30,2,2,Serious
+17,Fog,Snow,Daylight,70,1,2,Serious
+4,Rain,Ice,Darkness - no lights,50,4,2,Slight
+1,Snow,Snow,Darkness - lights lit,30,2,2,Fatal
+8,Rain,Dry,Darkness - no lights,70,3,1,Serious
+17,Fog,Snow,Daylight,70,4,1,Serious
+3,Fog,Snow,Daylight,50,4,1,Fatal
+15,Fog,Dry,Darkness - lights lit,70,3,3,Fatal
+15,Clear,Snow,Darkness - lights lit,60,1,4,Slight
+14,Rain,Dry,Darkness - no lights,50,3,2,Fatal
+14,Snow,Dry,Darkness - no lights,30,4,3,Slight
+2,Snow,Ice,Daylight,30,1,2,Fatal
+13,Snow,Wet,Darkness - lights lit,60,2,1,Serious
+14,Clear,Wet,Darkness - lights lit,30,2,3,Slight
+19,Clear,Snow,Darkness - lights lit,70,2,1,Slight
+7,Fog,Snow,Darkness - no lights,70,4,2,Slight
+3,Snow,Ice,Darkness - lights lit,60,3,2,Fatal
+15,Clear,Ice,Daylight,30,1,4,Serious
+14,Fog,Ice,Daylight,30,2,2,Slight
+11,Snow,Dry,Darkness - no lights,60,1,1,Slight
+15,Rain,Ice,Darkness - no lights,50,4,2,Slight
+13,Fog,Ice,Darkness - lights lit,30,2,4,Slight
+18,Clear,Snow,Darkness - no lights,50,4,4,Serious
+6,Clear,Ice,Daylight,30,3,1,Fatal
+3,Fog,Dry,Darkness - lights lit,30,4,3,Serious
+19,Fog,Dry,Daylight,30,4,2,Slight
+15,Clear,Snow,Darkness - lights lit,30,3,4,Serious
+5,Rain,Ice,Darkness - no lights,70,1,2,Slight
+10,Snow,Ice,Darkness - lights lit,50,3,2,Fatal
+7,Rain,Dry,Darkness - lights lit,50,3,3,Fatal
+17,Fog,Ice,Daylight,30,4,4,Fatal
+7,Rain,Ice,Daylight,30,1,2,Slight
+12,Clear,Ice,Darkness - lights lit,50,2,4,Serious
+17,Fog,Wet,Darkness - no lights,70,3,1,Fatal
+13,Snow,Snow,Darkness - no lights,60,1,1,Slight
+4,Clear,Wet,Daylight,60,3,2,Slight
+10,Clear,Snow,Darkness - no lights,50,3,4,Serious
+3,Snow,Dry,Daylight,30,3,2,Fatal
+9,Snow,Ice,Darkness - no lights,30,3,4,Slight
+13,Rain,Snow,Darkness - lights lit,70,4,4,Serious
+18,Fog,Wet,Daylight,60,1,3,Fatal
+15,Snow,Ice,Daylight,70,1,3,Serious
+4,Snow,Dry,Darkness - lights lit,60,1,3,Serious
+15,Fog,Snow,Daylight,50,3,2,Slight
+2,Snow,Snow,Darkness - no lights,60,4,3,Slight
+15,Snow,Snow,Darkness - no lights,70,3,3,Slight
+8,Rain,Ice,Daylight,70,3,1,Serious
+8,Clear,Wet,Darkness - no lights,70,1,4,Slight
+17,Clear,Wet,Daylight,50,3,4,Serious
+12,Clear,Snow,Darkness - lights lit,60,2,3,Serious
+19,Clear,Dry,Daylight,60,3,4,Slight
+10,Snow,Dry,Darkness - lights lit,70,2,1,Fatal
+9,Fog,Wet,Darkness - no lights,60,3,1,Fatal
+5,Fog,Dry,Darkness - lights lit,30,4,3,Fatal
+6,Rain,Wet,Darkness - no lights,30,4,1,Serious
+2,Rain,Snow,Daylight,30,1,4,Serious
+13,Snow,Wet,Darkness - no lights,60,3,2,Serious
+6,Fog,Wet,Daylight,50,2,4,Slight
+5,Fog,Snow,Daylight,50,2,2,Serious
+1,Clear,Dry,Darkness - lights lit,50,3,3,Slight
+6,Snow,Wet,Darkness - lights lit,50,2,2,Slight
+6,Snow,Wet,Darkness - lights lit,30,4,1,Fatal
+16,Clear,Snow,Darkness - lights lit,30,2,4,Fatal
+4,Snow,Dry,Darkness - no lights,70,1,2,Fatal
+11,Snow,Wet,Darkness - no lights,60,4,4,Slight
+9,Rain,Snow,Darkness - no lights,60,4,3,Slight
+3,Fog,Wet,Daylight,50,4,3,Slight
+19,Snow,Ice,Darkness - no lights,30,3,1,Serious
+8,Rain,Snow,Darkness - no lights,50,3,3,Slight
+5,Fog,Dry,Darkness - no lights,70,4,2,Fatal
+4,Clear,Dry,Darkness - lights lit,60,3,3,Fatal
+6,Rain,Dry,Darkness - no lights,60,2,1,Slight
+2,Rain,Dry,Daylight,50,3,4,Slight
+11,Fog,Wet,Darkness - lights lit,70,3,4,Fatal
+4,Clear,Wet,Daylight,60,4,3,Slight
+15,Rain,Dry,Darkness - no lights,70,1,2,Fatal
+6,Snow,Dry,Darkness - lights lit,70,1,1,Serious
+17,Snow,Dry,Daylight,50,1,2,Fatal
+6,Snow,Wet,Darkness - no lights,30,2,1,Serious
+19,Clear,Dry,Daylight,50,3,3,Slight
+2,Rain,Dry,Daylight,30,1,1,Slight
+15,Snow,Ice,Daylight,70,4,1,Serious
+11,Clear,Ice,Darkness - no lights,30,1,3,Slight
+8,Snow,Dry,Darkness - no lights,70,1,2,Serious
+19,Fog,Snow,Daylight,60,3,3,Slight
+13,Rain,Dry,Darkness - lights lit,60,3,1,Fatal
+12,Rain,Ice,Darkness - lights lit,60,3,3,Slight
+5,Clear,Snow,Darkness - no lights,50,2,1,Fatal
+6,Clear,Snow,Darkness - no lights,50,2,3,Fatal
+4,Rain,Dry,Darkness - no lights,70,1,4,Serious
+19,Snow,Ice,Darkness - no lights,60,3,4,Slight
+1,Snow,Ice,Darkness - no lights,50,1,3,Serious
+17,Fog,Snow,Darkness - lights lit,60,4,2,Slight
+12,Snow,Dry,Darkness - no lights,50,4,1,Fatal
+15,Clear,Wet,Daylight,30,3,4,Fatal
+1,Clear,Wet,Daylight,30,3,2,Slight
+14,Snow,Ice,Darkness - lights lit,60,4,1,Slight
+6,Clear,Wet,Daylight,70,3,4,Serious
+5,Rain,Ice,Darkness - lights lit,50,2,4,Slight
+11,Rain,Ice,Darkness - lights lit,50,2,3,Slight
+4,Snow,Ice,Daylight,30,3,1,Slight
+13,Rain,Wet,Darkness - no lights,30,4,2,Serious
+11,Rain,Ice,Daylight,70,1,2,Slight
+3,Fog,Snow,Daylight,70,3,2,Fatal
+1,Fog,Dry,Darkness - lights lit,70,3,1,Serious
+6,Rain,Dry,Daylight,60,1,2,Serious
+18,Snow,Ice,Darkness - lights lit,30,3,2,Fatal
+10,Fog,Dry,Darkness - no lights,60,1,2,Fatal
+5,Clear,Wet,Darkness - no lights,30,4,3,Fatal
+10,Clear,Wet,Darkness - no lights,30,2,3,Slight
+12,Clear,Dry,Daylight,50,4,1,Fatal
+2,Snow,Wet,Darkness - lights lit,30,2,1,Slight
+13,Rain,Dry,Darkness - no lights,30,1,2,Serious
+8,Clear,Dry,Darkness - lights lit,60,2,3,Serious
+2,Snow,Dry,Darkness - lights lit,30,4,4,Fatal
+1,Fog,Ice,Darkness - no lights,60,2,4,Slight
+5,Rain,Dry,Darkness - no lights,70,1,2,Fatal
+9,Fog,Ice,Darkness - lights lit,30,2,2,Fatal
+17,Snow,Dry,Darkness - no lights,30,3,3,Slight
+9,Clear,Dry,Darkness - lights lit,60,4,3,Fatal
+11,Clear,Dry,Darkness - lights lit,70,3,3,Serious
+15,Snow,Wet,Darkness - no lights,50,1,1,Fatal
+6,Clear,Ice,Daylight,70,2,1,Slight
+3,Rain,Ice,Darkness - no lights,60,3,2,Slight
+17,Snow,Dry,Daylight,70,3,1,Serious
+5,Fog,Dry,Darkness - lights lit,60,2,3,Slight
+12,Snow,Wet,Darkness - lights lit,60,2,3,Slight
+18,Rain,Wet,Daylight,50,4,1,Serious
+14,Rain,Wet,Darkness - lights lit,30,3,4,Fatal
+11,Snow,Ice,Daylight,60,3,2,Serious
+9,Snow,Ice,Daylight,60,1,4,Fatal
+2,Clear,Ice,Darkness - lights lit,50,4,2,Serious
+12,Rain,Dry,Daylight,60,1,4,Fatal
+3,Snow,Ice,Darkness - no lights,30,3,1,Serious
+3,Snow,Snow,Darkness - no lights,50,1,2,Fatal
+1,Rain,Snow,Darkness - lights lit,30,3,2,Serious
+8,Snow,Wet,Darkness - lights lit,30,3,2,Fatal
+8,Clear,Ice,Daylight,50,1,3,Serious
+11,Rain,Snow,Daylight,60,1,3,Slight
+9,Clear,Wet,Daylight,30,2,4,Fatal
+5,Clear,Ice,Daylight,30,2,1,Serious
+14,Clear,Dry,Darkness - no lights,30,2,3,Fatal
+3,Clear,Snow,Darkness - no lights,30,3,2,Fatal
+5,Rain,Dry,Darkness - lights lit,50,1,3,Serious
+5,Clear,Ice,Daylight,50,4,1,Fatal
+19,Clear,Snow,Daylight,70,3,3,Serious
+14,Snow,Ice,Darkness - lights lit,70,4,2,Slight
+4,Rain,Dry,Daylight,30,1,4,Fatal
+13,Rain,Snow,Daylight,60,3,2,Slight
+10,Fog,Dry,Daylight,30,4,1,Fatal
+18,Rain,Ice,Daylight,60,4,4,Fatal
+8,Rain,Ice,Daylight,30,2,3,Fatal
+8,Fog,Dry,Darkness - lights lit,70,2,3,Serious
+7,Rain,Snow,Daylight,70,2,3,Slight
+8,Rain,Dry,Darkness - lights lit,60,3,4,Fatal
+14,Rain,Ice,Daylight,30,1,2,Serious
+19,Rain,Dry,Darkness - no lights,60,1,4,Fatal
+6,Fog,Ice,Darkness - no lights,70,2,4,Serious
+1,Rain,Dry,Darkness - no lights,30,2,1,Fatal
+15,Rain,Snow,Darkness - no lights,30,2,4,Slight
+1,Fog,Snow,Darkness - lights lit,60,4,3,Slight
+17,Snow,Dry,Darkness - lights lit,50,2,2,Fatal
+1,Clear,Dry,Daylight,60,4,2,Serious
+15,Snow,Snow,Darkness - no lights,70,1,2,Fatal
+2,Fog,Ice,Darkness - lights lit,70,3,3,Serious
+14,Clear,Snow,Daylight,70,3,3,Fatal
+8,Fog,Ice,Daylight,70,3,3,Serious
+8,Fog,Dry,Darkness - lights lit,70,3,3,Slight
+19,Rain,Dry,Darkness - no lights,50,4,3,Fatal
+7,Clear,Ice,Daylight,30,4,4,Slight
+19,Rain,Dry,Darkness - no lights,60,2,3,Slight
+6,Clear,Ice,Darkness - no lights,60,4,3,Fatal
+6,Fog,Wet,Darkness - no lights,70,2,3,Fatal
+3,Fog,Snow,Daylight,60,2,3,Serious
+7,Snow,Wet,Darkness - no lights,70,3,2,Serious
+19,Clear,Ice,Daylight,50,4,3,Slight
+8,Rain,Snow,Darkness - no lights,50,4,4,Serious
+10,Snow,Ice,Daylight,30,2,4,Serious
+15,Snow,Snow,Darkness - no lights,50,2,4,Fatal
+15,Snow,Snow,Darkness - lights lit,50,1,1,Serious
+1,Rain,Snow,Darkness - no lights,30,1,2,Slight
+7,Snow,Snow,Darkness - no lights,60,2,3,Serious
+4,Rain,Ice,Daylight,70,1,1,Slight
+6,Snow,Snow,Daylight,70,1,3,Fatal
+1,Rain,Snow,Darkness - no lights,60,2,1,Slight
+5,Fog,Wet,Darkness - lights lit,30,2,1,Serious
+1,Fog,Dry,Darkness - lights lit,60,4,4,Fatal
+4,Fog,Dry,Daylight,50,2,4,Serious
+2,Fog,Wet,Darkness - lights lit,30,2,1,Fatal
+10,Fog,Wet,Darkness - no lights,30,3,4,Fatal
+5,Snow,Ice,Daylight,30,4,1,Serious
+10,Snow,Ice,Darkness - no lights,70,4,2,Serious
+1,Snow,Ice,Daylight,60,4,4,Fatal
+6,Rain,Wet,Daylight,30,3,4,Fatal
+13,Rain,Wet,Daylight,30,2,4,Serious
+15,Rain,Snow,Daylight,30,4,2,Slight
+4,Rain,Ice,Darkness - lights lit,60,4,1,Serious
+13,Fog,Ice,Darkness - no lights,70,1,3,Fatal
+15,Fog,Ice,Darkness - no lights,50,4,4,Serious
+8,Fog,Dry,Darkness - no lights,70,2,1,Slight
+5,Clear,Snow,Daylight,30,2,2,Serious
+15,Snow,Ice,Darkness - lights lit,70,1,3,Fatal
+4,Rain,Ice,Darkness - no lights,70,4,4,Serious
+12,Rain,Ice,Darkness - lights lit,50,4,2,Fatal
+13,Fog,Dry,Daylight,60,4,2,Fatal
+2,Rain,Dry,Darkness - no lights,60,3,3,Serious
+19,Rain,Wet,Darkness - lights lit,70,4,1,Fatal
+19,Snow,Snow,Daylight,70,2,4,Fatal
+4,Fog,Wet,Darkness - lights lit,60,2,4,Slight
+4,Snow,Snow,Darkness - no lights,60,3,1,Slight
+11,Clear,Dry,Darkness - no lights,50,3,1,Slight
+5,Clear,Ice,Daylight,30,4,1,Slight
+11,Clear,Wet,Daylight,70,1,3,Fatal
+10,Fog,Ice,Daylight,60,3,3,Serious
+8,Rain,Wet,Darkness - lights lit,70,3,4,Fatal
+6,Fog,Dry,Darkness - lights lit,70,4,3,Fatal
+6,Fog,Dry,Darkness - lights lit,60,4,2,Fatal
+8,Rain,Dry,Daylight,50,3,4,Serious
+15,Snow,Wet,Darkness - no lights,70,1,3,Slight
+14,Clear,Snow,Darkness - no lights,50,3,1,Fatal
+11,Snow,Wet,Darkness - lights lit,60,4,2,Fatal
+12,Clear,Snow,Darkness - lights lit,30,4,1,Slight
+13,Fog,Wet,Darkness - no lights,30,3,4,Fatal
+8,Clear,Wet,Darkness - no lights,70,1,1,Serious
+18,Fog,Dry,Darkness - lights lit,60,3,3,Fatal
+1,Snow,Ice,Darkness - lights lit,50,3,3,Fatal
+15,Fog,Ice,Darkness - no lights,70,4,4,Slight
+8,Snow,Snow,Daylight,60,1,1,Fatal
+11,Rain,Ice,Darkness - lights lit,60,2,4,Fatal
+12,Rain,Wet,Darkness - no lights,50,1,1,Serious
+12,Rain,Wet,Darkness - no lights,70,3,2,Slight
+4,Fog,Dry,Darkness - no lights,60,3,3,Slight
+16,Rain,Dry,Darkness - no lights,60,3,4,Serious
+4,Clear,Ice,Daylight,60,1,2,Fatal
+5,Snow,Snow,Darkness - no lights,50,4,2,Slight
+5,Snow,Ice,Darkness - lights lit,70,3,4,Slight
+8,Clear,Ice,Daylight,70,3,4,Fatal
+10,Fog,Ice,Darkness - no lights,70,1,2,Fatal
+17,Fog,Ice,Daylight,70,2,1,Slight
+9,Snow,Wet,Darkness - lights lit,30,2,2,Fatal
+19,Rain,Snow,Darkness - no lights,30,4,4,Slight
+14,Fog,Wet,Darkness - lights lit,70,4,2,Fatal
+8,Fog,Snow,Darkness - no lights,50,3,1,Fatal
+9,Clear,Dry,Darkness - no lights,30,1,3,Serious
+11,Clear,Ice,Darkness - no lights,60,3,3,Fatal
+1,Rain,Wet,Darkness - no lights,30,4,2,Serious
+14,Fog,Snow,Darkness - no lights,60,1,1,Fatal
+5,Fog,Dry,Daylight,70,1,3,Slight
+14,Clear,Dry,Darkness - no lights,30,4,2,Slight
+4,Fog,Ice,Darkness - no lights,50,2,2,Fatal
+1,Snow,Snow,Daylight,30,2,1,Fatal
+19,Clear,Wet,Daylight,30,1,4,Slight
+8,Rain,Ice,Daylight,30,3,2,Fatal
+15,Clear,Wet,Daylight,70,2,4,Serious
+15,Fog,Dry,Daylight,50,3,4,Serious
+9,Rain,Wet,Daylight,30,2,3,Serious
+9,Clear,Wet,Darkness - no lights,50,2,4,Serious
+10,Snow,Ice,Darkness - no lights,70,3,1,Serious
+9,Snow,Wet,Darkness - lights lit,60,4,3,Fatal
+3,Clear,Ice,Darkness - no lights,30,2,3,Fatal
+11,Snow,Dry,Darkness - no lights,50,2,3,Serious
+6,Snow,Ice,Daylight,50,3,2,Fatal
+2,Snow,Ice,Daylight,70,4,2,Fatal
+7,Rain,Snow,Darkness - no lights,30,2,4,Serious
+18,Snow,Wet,Darkness - lights lit,60,2,3,Fatal
+2,Snow,Dry,Daylight,50,4,3,Fatal
+17,Snow,Ice,Darkness - no lights,30,2,1,Fatal
+11,Rain,Dry,Darkness - no lights,60,4,4,Serious
+12,Clear,Snow,Darkness - lights lit,50,4,1,Fatal
+19,Fog,Wet,Darkness - lights lit,50,3,4,Slight
+7,Snow,Ice,Daylight,60,1,4,Slight
+6,Clear,Wet,Darkness - lights lit,60,4,2,Serious
+1,Snow,Snow,Darkness - no lights,70,3,2,Slight
+17,Rain,Snow,Darkness - no lights,30,1,1,Serious
+11,Clear,Dry,Darkness - lights lit,30,2,4,Slight
+18,Rain,Ice,Darkness - lights lit,70,1,3,Slight
+17,Snow,Dry,Darkness - lights lit,50,4,2,Slight
+7,Snow,Snow,Darkness - lights lit,60,4,3,Serious
+17,Rain,Wet,Daylight,60,4,1,Serious
+9,Fog,Dry,Darkness - lights lit,60,4,2,Fatal
+17,Rain,Dry,Daylight,50,4,2,Serious
+8,Snow,Wet,Darkness - no lights,60,3,4,Slight
+17,Rain,Dry,Darkness - lights lit,60,4,1,Slight
+7,Fog,Wet,Daylight,70,3,4,Serious
+1,Rain,Ice,Darkness - lights lit,50,2,2,Serious
+13,Fog,Wet,Darkness - no lights,30,4,1,Serious
+19,Fog,Ice,Darkness - no lights,70,4,2,Fatal
+19,Rain,Wet,Darkness - no lights,70,1,1,Slight
+17,Rain,Snow,Darkness - lights lit,30,2,2,Fatal
+13,Clear,Snow,Darkness - lights lit,70,4,3,Fatal
+16,Snow,Ice,Daylight,50,4,3,Slight
+8,Fog,Ice,Darkness - no lights,60,2,4,Slight
+19,Clear,Snow,Darkness - lights lit,50,3,3,Serious
+18,Rain,Ice,Darkness - no lights,30,4,2,Serious
+1,Snow,Wet,Darkness - no lights,30,1,2,Fatal
+14,Clear,Wet,Daylight,70,4,3,Serious
+19,Fog,Snow,Daylight,50,1,4,Serious
+15,Clear,Dry,Daylight,50,1,3,Slight
+18,Fog,Wet,Daylight,30,4,1,Slight
+2,Rain,Ice,Darkness - no lights,50,4,1,Serious
+17,Snow,Dry,Daylight,30,1,1,Slight
+18,Snow,Dry,Daylight,50,2,3,Serious
+6,Snow,Wet,Daylight,50,2,3,Slight
+19,Rain,Wet,Daylight,50,4,3,Slight
+4,Fog,Dry,Darkness - no lights,30,3,1,Slight
+1,Rain,Dry,Daylight,70,2,4,Slight
+8,Snow,Snow,Darkness - no lights,50,4,2,Serious
+7,Rain,Ice,Darkness - lights lit,30,2,3,Fatal
+3,Rain,Snow,Darkness - no lights,30,3,4,Slight
+10,Rain,Wet,Darkness - no lights,50,4,2,Serious
