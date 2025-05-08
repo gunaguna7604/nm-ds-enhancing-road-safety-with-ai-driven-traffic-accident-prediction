@@ -1,62 +1,98 @@
-# source_code.py
+
+# Student Performance Prediction Project
 
 import pandas as pd
-import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
-from sklearn.impute import SimpleImputer
-from sklearn.pipeline import Pipeline
-from joblib import dump
+from sklearn.metrics import mean_squared_error, r2_score
+import gradio as gr
 
 # Load dataset
-df = pd.read_csv('dataset.csv')
+df = pd.read_csv('student-mat.csv', sep=';')
 
-# Display basic info
-print("Dataset shape:", df.shape)
-print(df.head())
+# One-hot encoding
+df_encoded = pd.get_dummies(df, drop_first=True)
 
-# Drop columns with too many missing values (if any)
-df = df.dropna(thresh=len(df) * 0.5, axis=1)
-
-# Define features and target
-X = df.drop('Accident_Severity', axis=1)
-y = df['Accident_Severity']
-
-# Imputation and scaling
-num_features = X.select_dtypes(include=['int64', 'float64']).columns
-cat_features = X.select_dtypes(include=['object']).columns
-
-# Basic encoding for categoricals
-X = pd.get_dummies(X, drop_first=True)
-
-# Impute missing values
-imputer = SimpleImputer(strategy='mean')
-X_imputed = imputer.fit_transform(X)
-
-# Scale the features
+# Feature scaling
 scaler = StandardScaler()
-X_scaled = scaler.fit_transform(X_imputed)
+X_scaled = scaler.fit_transform(df_encoded.drop('G3', axis=1))
+y = df_encoded['G3']
 
-# Train/test split
+# Split data
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
 
-# Model training
-model = RandomForestClassifier(n_estimators=100, random_state=42)
+# Train model
+model = LinearRegression()
 model.fit(X_train, y_train)
 
-# Predictions
-y_pred = model.predict(X_test)
+# Prediction function for Gradio
+def predict_grade(school, sex, age, address, famsize, Pstatus, Medu, Fedu,
+                  Mjob, Fjob, reason, guardian, traveltime, studytime,
+                  failures, schoolsup, famsup, paid, activities, nursery,
+                  higher, internet, romantic, famrel, freetime, goout,
+                  Dalc, Walc, health, absences, G1, G2):
 
-# Evaluation
-print("Accuracy:", accuracy_score(y_test, y_pred))
-print("Classification Report:\n", classification_report(y_test, y_pred))
-print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
+    input_data = {
+        'school': school, 'sex': sex, 'age': int(age), 'address': address, 'famsize': famsize,
+        'Pstatus': Pstatus, 'Medu': int(Medu), 'Fedu': int(Fedu), 'Mjob': Mjob, 'Fjob': Fjob,
+        'reason': reason, 'guardian': guardian, 'traveltime': int(traveltime), 'studytime': int(studytime),
+        'failures': int(failures), 'schoolsup': schoolsup, 'famsup': famsup, 'paid': paid,
+        'activities': activities, 'nursery': nursery, 'higher': higher, 'internet': internet,
+        'romantic': romantic, 'famrel': int(famrel), 'freetime': int(freetime), 'goout': int(goout),
+        'Dalc': int(Dalc), 'Walc': int(Walc), 'health': int(health), 'absences': int(absences),
+        'G1': int(G1), 'G2': int(G2)
+    }
 
-# Save model
-dump(model, 'accident_model.joblib')
-print("Model saved as accident_model.joblib")
+    input_df = pd.DataFrame([input_data])
+    df_temp = pd.concat([df.drop('G3', axis=1), input_df], ignore_index=True)
+    df_temp_encoded = pd.get_dummies(df_temp, drop_first=True)
+    df_temp_encoded = df_temp_encoded.reindex(columns=df_encoded.drop('G3', axis=1).columns, fill_value=0)
+
+    scaled_input = scaler.transform(df_temp_encoded.tail(1))
+    prediction = model.predict(scaled_input)
+
+    return round(prediction[0], 2)
+
+# Gradio Interface
+inputs = [
+    gr.Dropdown(['GP', 'MS'], label="School"),
+    gr.Dropdown(['M', 'F'], label="Gender"),
+    gr.Number(label="Age"),
+    gr.Dropdown(['U', 'R'], label="Address"),
+    gr.Dropdown(['LE3', 'GT3'], label="Family Size"),
+    gr.Dropdown(['A', 'T'], label="Parent Status"),
+    gr.Number(label="Mother's Education"),
+    gr.Number(label="Father's Education"),
+    gr.Dropdown(['teacher', 'health', 'services', 'at_home', 'other'], label="Mother's Job"),
+    gr.Dropdown(['teacher', 'health', 'services', 'at_home', 'other'], label="Father's Job"),
+    gr.Dropdown(['home', 'reputation', 'course', 'other'], label="Reason"),
+    gr.Dropdown(['mother', 'father', 'other'], label="Guardian"),
+    gr.Number(label="Travel Time"),
+    gr.Number(label="Study Time"),
+    gr.Number(label="Failures"),
+    gr.Dropdown(['yes', 'no'], label="School Support"),
+    gr.Dropdown(['yes', 'no'], label="Family Support"),
+    gr.Dropdown(['yes', 'no'], label="Paid Classes"),
+    gr.Dropdown(['yes', 'no'], label="Activities"),
+    gr.Dropdown(['yes', 'no'], label="Nursery"),
+    gr.Dropdown(['yes', 'no'], label="Higher Education"),
+    gr.Dropdown(['yes', 'no'], label="Internet"),
+    gr.Dropdown(['yes', 'no'], label="Romantic"),
+    gr.Number(label="Family Relationship"),
+    gr.Number(label="Free Time"),
+    gr.Number(label="Going Out"),
+    gr.Number(label="Daily Alcohol"),
+    gr.Number(label="Weekend Alcohol"),
+    gr.Number(label="Health"),
+    gr.Number(label="Absences"),
+    gr.Number(label="G1"),
+    gr.Number(label="G2")
+]
+
+output = gr.Number(label="Predicted Final Grade (G3)")
+
+gr.Interface(fn=predict_grade, inputs=inputs, outputs=output,
+             title="🎓 Student Grade Predictor").launch()
